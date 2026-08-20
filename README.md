@@ -3,10 +3,15 @@
 <br/>
 
 ```
-  ⬡  InvoiceLens
+  ⬡  InvoiceLens - 
 ```
-
 # Invoice**Lens**
+
+<p align="center">
+  <a href="https://invoicelens-invoice-intelligence-system.streamlit.app/">
+    <img src="https://img.shields.io/badge/%20Live%20Demo-Streamlit-red?style=for-the-badge&logo=streamlit" alt="Live Demo">
+  </a>
+</p>
 
 ### AI-Powered Freight Cost Prediction & Invoice Risk Analytics Platform
 
